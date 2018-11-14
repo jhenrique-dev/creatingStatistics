@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Oswald', sans-serif;
+    box-sizing: border-box;
+    background-image: url(https://i.imgur.com/dPWYLZg.png);
+}
+.content {
+
+    width: 850px;
+    position: absolute;
+    left: 50%;
+    top: 30%;
+    transform: translate(-50%);
+    color: #8CA0B8;
+
+}
+.content-number {
+    float: left;
+    margin-right: 5%;
+    font-size: 12em;
+
+}
+.text {
+
+    font-size: 12em;
+
+}
