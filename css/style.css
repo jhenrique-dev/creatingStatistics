@@ -11,9 +11,9 @@ body{
 
     width: 850px;
     position: absolute;
-    left: 50%;
-    top: 30%;
-    transform: translate(-50%);
+    left: 55%;
+    top: 25%;
+    transform: translateX(-50%);
     color: #8CA0B8;
 
 }
